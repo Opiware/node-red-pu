@@ -1,0 +1,10 @@
+{
+  "name": "node-red-contrib-zigbee",
+  "description": "Control Zigbee Devices (Xiaomi Aqara, Hue, Lightify, Tradfri, ...) with Node-RED via a CC253x Module. No need for proprietary bridges anymore, use devices of different vendors in one Zigbee network. ",
+  "description_zh": "",
+  "enable": "",
+  "keywords": [
+    "node-red-contrib-zigbee"
+  ],
+  "source": "https://flows.nodered.org/node/node-red-contrib-zigbee",
+}

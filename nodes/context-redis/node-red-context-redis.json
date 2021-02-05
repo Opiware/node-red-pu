@@ -1,0 +1,28 @@
+{
+  "name": "node-red-context-redis",
+  "description": "",
+  "description_zh": "",
+  "enable": "",
+  "keywords": [
+    "node-red-context-redis"
+  ],
+  "category": "node-red",
+  "author": {
+    "name" : "node-red",
+    "email": "",
+    "github": "node-red"
+  },
+  "license": "",
+  "repository": "https://github.com/node-red/node-red-context-redis",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "site": [
+    {
+      "version": "latest",
+      "URL": "https://github.com/node-red/node-red-context-redis.git",
+      "filename": "node-red-context-redis.git-master.zip",
+      "VER_SHA": "master"
+    }
+  ]
+}

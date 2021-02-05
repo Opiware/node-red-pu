@@ -1,0 +1,28 @@
+{
+  "name": "cookbook.nodered.org",
+  "description": "For simple typos and single line fixes please just raise an issue pointing out our mistakes. If you need to raise a pull request please read our contribution guidelines before doing so.",
+  "description_zh": "",
+  "enable": "",
+  "keywords": [
+    "cookbook.nodered.org"
+  ],
+  "category": "node-red",
+  "author": {
+    "name" : "node-red",
+    "email": "",
+    "github": "node-red"
+  },
+  "license": "",
+  "repository": "https://github.com/node-red/cookbook.nodered.org",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "site": [
+    {
+      "version": "latest",
+      "URL": "https://github.com/node-red/cookbook.nodered.org.git",
+      "filename": "cookbook.nodered.org.git-master.zip",
+      "VER_SHA": "master"
+    }
+  ]
+}
