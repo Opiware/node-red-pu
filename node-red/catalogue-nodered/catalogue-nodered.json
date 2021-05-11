@@ -1,0 +1,28 @@
+{
+  "name": "catalogue.nodered.org", https://github.com/node-red/catalogue.nodered.org 
+  "description": "Community node module catalogue",
+  "description_zh": "",
+  "enable": "",
+  "keywords": [
+    "catalogue.nodered.org"
+  ],
+  "category": "node-red",
+  "author": {
+    "name" : "node-red",
+    "email": "",
+    "github": "node-red"
+  },
+  "license": "",
+  "repository": "https://github.com/node-red/catalogue.nodered.org",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "site": [
+    {
+      "version": "latest",
+      "URL": "https://github.com/node-red/catalogue.nodered.org.git",
+      "filename": "catalogue.nodered.org.git-master.zip",
+      "VER_SHA": "master"
+    }
+  ]
+}

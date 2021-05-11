@@ -1,0 +1,28 @@
+{
+  "name": "designs", https://github.com/node-red/designs 
+  "description": "This repository is used to track proposals for new features within Node-RED. It covers both the core Node-RED and any of the assets the project maintains.",
+  "description_zh": "",
+  "enable": "",
+  "keywords": [
+    "designs"
+  ],
+  "category": "node-red",
+  "author": {
+    "name" : "node-red",
+    "email": "",
+    "github": "node-red"
+  },
+  "license": "",
+  "repository": "https://github.com/node-red/designs",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "site": [
+    {
+      "version": "latest",
+      "URL": "https://github.com/node-red/designs.git",
+      "filename": "designs.git-master.zip",
+      "VER_SHA": "master"
+    }
+  ]
+}

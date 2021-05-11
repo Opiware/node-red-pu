@@ -1,0 +1,17 @@
+{
+  "name": "node-red-node-serialport",
+  "description": "Node-RED nodes to talk to hardware serial ports.",
+  "description_zh": "",
+  "enable": "",
+  "keywords": [
+    "node-red-node-serialport"
+  ],
+  "source": "https://flows.nodered.org/node/node-red-node-serialport",
+}
+
+node-red-node-serialport 0.8.8: Node-RED nodes to talk to hardware serial ports. https://flows.nodered.org/node/node-red-node-serialport>
+1. ~# npm install -g node-red-node-serialport  ;install global
+gyp ERR! configure error; gyp ERR! stack Error: EACCES: permission denied
+2. ~$ npm install node-red-node-serialport     ;install local OK?
+3. Install in Node-RED GUI > Manage Palette > Install: node-red-node-serialport
+To '/home/pi/.node-red/node_modules/node-red-node-serialport'

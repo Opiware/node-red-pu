@@ -1,0 +1,34 @@
+{
+  "name": "node-red.github.io",
+  "description": "For simple typos and single line fixes please just raise an issue pointing out our mistakes.",
+  "description_zh": "",
+  "enable": "",
+  "keywords": [
+    "node-red.github.io"
+  ],
+  "category": "node-red",
+  "author": {
+    "name" : "node-red",
+    "email": "unknown",
+    "github": "node-red"
+  },
+  "license": "",
+  "repository": "https://github.com/node-red/node-red.github.io",
+  "icon": "unknown",
+  "homepage": "http://nodered.org/",
+  "doc": "unknown",
+  "site": [
+    {
+      "version": "",
+      "URL": "https://github.com/node-red/node-red.github.io.git",
+      "filename": "node-red.github.io.git-1.0.0.zip",
+      "VER_SHA": ""
+    },
+    {
+      "version": "latest",
+      "URL": "https://github.com/node-red/node-red.github.io.git",
+      "filename": "node-red.github.io.git-master.zip",
+      "VER_SHA": "master"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "node-red-call-c++",
+  "description": "",
+  "description_zh": "",
+  "enable": "",
+  "keywords": [
+    "node-red-call-c++"
+  ],
+  "source": "https://www.sysleaf.com/nodejs-ffi/",
+
+}
+
+How to create js binding to c/c++ library using nodejs FFI ( https://www.sysleaf.com/nodejs-ffi/ )
